@@ -1,0 +1,6 @@
+rootProject.name = 'MSAPractice'
+include 'order-application'
+include 'order-dataaccess'
+include 'order-domain'
+include 'order-message'
+include 'order-container'
